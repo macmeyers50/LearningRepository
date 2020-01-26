@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Joe sucks more eggs than a yolk remover xD
+          Joe sucks more eggs than AAAa yolk remover xD
         </a>
       </header>
     </div>
