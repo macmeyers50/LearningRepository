@@ -5,11 +5,13 @@ class MyTable extends Component {
       return(
           
        <table border="2">
+      <thead>
        <tr>
          <th>Company Name</th>
          <th>Number of Items to Ship</th>
          <th>Next Action</th>
        </tr>
+       </thead>
        <tr>
          <td >Adam’s Greenworks</td>
          <td>14</td>

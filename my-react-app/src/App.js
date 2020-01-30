@@ -3,12 +3,13 @@ import logo from './logo.svg';
 import './App.css';
 import {Button, Button2, Button3} from './Components/Button.js';
 import MyTable from './Components/MyTable.js';
-
+import MyForm from './Components/MyForm.js';
 function App() {
   return (
 
       <header className="App-header">
       <Button/><Button2/><Button3/>
+      <MyForm/>
       <MyTable/>
       
         <img src={logo} className="App-logo" alt="logo" />
